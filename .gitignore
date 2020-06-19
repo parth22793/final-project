@@ -1,0 +1,14 @@
+.idea/
+myvenv/
+.github/
+news/
+project-3/
+.travis.yml
+Procfile
+README.md
+db.sqlite3
+final-project/
+lecture 7/
+manage.py
+requirements.txt
+screenshot/
